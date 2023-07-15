@@ -1,0 +1,118 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Dale C.",
+	"icon": "https://micro.blog/DacoDev/avatar.jpg",
+	"home_page_url": "https://notveryhelpful.com/",
+	"feed_url": "https://notveryhelpful.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://dacodev.micro.blog/2023/07/14/how-do-you.html",
+				
+				"content_html": "<p>How do you stop cleaning your computer when you have things to do?</p>\n<p>#unhelpfultip</p>\n",
+				"content_text": "How do you stop cleaning your computer when you have things to do?\r\n\r\n#unhelpfultip\n",
+				"date_published": "2023-07-14T00:09:32-04:00",
+				"url": "https://notveryhelpful.com/2023/07/14/how-do-you.html",
+				"tags": ["shortform","unhelpfultip"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/another-good-way.html",
+				
+				"content_html": "<p>Another good way to procrastinate on your project is to start a blog about it.</p>\n<p>#unhelpfultip</p>\n",
+				"content_text": "Another good way to procrastinate on your project is to start a blog about it.\r\n\r\n#unhelpfultip\n",
+				"date_published": "2023-07-10T01:37:24-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/another-good-way.html",
+				"tags": ["shortform","unhelpfultip"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/im-not-sure.html",
+				
+				"content_html": "<p>I&rsquo;m not sure if it&rsquo;s a Pavlovian-effect but listening to brain.fm defiantly helps keep me on-track, for the most part.</p>\n<p>#helpfultip</p>\n",
+				"content_text": "I'm not sure if it's a Pavlovian-effect but listening to brain.fm defiantly helps keep me on-track, for the most part.\r\n\r\n#helpfultip\n",
+				"date_published": "2023-07-10T01:28:39-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/im-not-sure.html",
+				"tags": ["shortform","helpfultip"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/make-sure-to.html",
+				
+				"content_html": "<p>Make sure to jump in to at least 2 or 3 new-to-you frameworks at the beginning of your project to make sure you never actually get past the first few steps of creating your project!</p>\n<p>#unhelpfultip</p>\n",
+				"content_text": "Make sure to jump in to at least 2 or 3 new-to-you frameworks at the beginning of your project to make sure you never actually get past the first few steps of creating your project!\r\n\r\n#unhelpfultip\n",
+				"date_published": "2023-07-10T01:27:05-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/make-sure-to.html",
+				"tags": ["shortform","unhelpfultip"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/dont-forget-to.html",
+				
+				"content_html": "<p>Don&rsquo;t forget to setup your virtualenv before blasting your system-install of Python with your requirements.txt</p>\n<p>#unhelpfultip</p>\n",
+				"content_text": "Don't forget to setup your virtualenv before blasting your system-install of Python with your requirements.txt\r\n\r\n#unhelpfultip\n",
+				"date_published": "2023-07-10T01:25:41-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/dont-forget-to.html",
+				"tags": ["shortform","unhelpfultip"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/most-of-my.html",
+				
+				"content_html": "<p>Most of my DevOps experience is in using GitLab, but I&rsquo;ve used GitHub Actions and Jenkins in the past. I also tried out Concourse for a few weeks but that didn&rsquo;t end too well&hellip; Very strong opinions there that didn&rsquo;t mesh with the flexibility that I needed and expected.</p>\n",
+				"content_text": "Most of my DevOps experience is in using GitLab, but I've used GitHub Actions and Jenkins in the past. I also tried out Concourse for a few weeks but that didn't end too well... Very strong opinions there that didn't mesh with the flexibility that I needed and expected. \n",
+				"date_published": "2023-07-10T01:09:53-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/most-of-my.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/using-the-llms.html",
+				
+				"content_html": "<p>Using the LLM&rsquo;s help, I&rsquo;ve been able to up-skill quickly. Asking for a quick review of a function or reviewing my usage of a library in seconds helps troubleshoot the little things quickly, reducing the need to read pages and pages of docs and looking up examples.</p>\n",
+				"content_text": "Using the LLM's help, I've been able to up-skill quickly. Asking for a quick review of a function or reviewing my usage of a library in seconds helps troubleshoot the little things quickly, reducing the need to read pages and pages of docs and looking up examples.\n",
+				"date_published": "2023-07-10T01:08:07-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/using-the-llms.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/being-that-python.html",
+				
+				"content_html": "<p>Being that Python is so widely used, AI tools have tons of data on it and can be really helpful. I&rsquo;ve been using CodeGPT and Tabnine in my IDE (mainly JetBrains products, but VSCode for non-app level dev). I know there&rsquo;s a billion examples of using AI for development, but it is so incredibly useful.</p>\n",
+				"content_text": "Being that Python is so widely used, AI tools have tons of data on it and can be really helpful. I've been using CodeGPT and Tabnine in my IDE (mainly JetBrains products, but VSCode for non-app level dev). I know there's a billion examples of using AI for development, but it is so incredibly useful.\n",
+				"date_published": "2023-07-10T01:06:13-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/being-that-python.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/over-the-past.html",
+				
+				"content_html": "<p>Over the past year or so, I&rsquo;ve developed internal applications using React/TypeScript, ExpressAPI, and Next.JS, but really I want to get back to basics and start over with Python. I&rsquo;ve used it fairly extensively as a scripting language but after seeing some of the webapps made with Django in a short period of time, I want to check that out.</p>\n",
+				"content_text": "Over the past year or so, I've developed internal applications using React/TypeScript, ExpressAPI, and Next.JS, but really I want to get back to basics and start over with Python. I've used it fairly extensively as a scripting language but after seeing some of the webapps made with Django in a short period of time, I want to check that out.\n",
+				"date_published": "2023-07-10T01:04:13-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/over-the-past.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/yes-i-picked.html",
+				
+				"content_html": "<p>Yes, I picked the name notveryhelpful because in reality, what I post may not be very helpful :D</p>\n",
+				"content_text": "Yes, I picked the name notveryhelpful because in reality, what I post may not be very helpful :D\n",
+				"date_published": "2023-07-10T01:00:38-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/yes-i-picked.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/i-wanted-a.html",
+				
+				"content_html": "<p>I wanted a platform like this so that I can post small tips-and-tricks that I create or come across in solving issue I run in to. If anything just for myself so I can catalog little things I&rsquo;ve done but can&rsquo;t really remember what I did to fix it the last time.</p>\n",
+				"content_text": "I wanted a platform like this so that I can post small tips-and-tricks that I create or come across in solving issue I run in to. If anything just for myself so I can catalog little things I've done but can't really remember what I did to fix it the last time.\n",
+				"date_published": "2023-07-10T00:47:53-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/i-wanted-a.html",
+				"tags": ["shortform"]
+			},
+			{
+				"id": "http://dacodev.micro.blog/2023/07/10/hello-world.html",
+				"title": "Hello, World.",
+				"content_html": "<p>So I&rsquo;ve decided to jump in to software development. I&rsquo;m pursuing my degree in CS though I&rsquo;ve been in the industry for years and have been doing DevOps work for the past 4-5 years. There&rsquo;s a whole other world of software creation out there. I want to post here with interesting things I find, create, or fix.</p>\n",
+				"content_text": "So I've decided to jump in to software development. I'm pursuing my degree in CS though I've been in the industry for years and have been doing DevOps work for the past 4-5 years. There's a whole other world of software creation out there. I want to post here with interesting things I find, create, or fix. \n",
+				"date_published": "2023-07-10T00:45:53-04:00",
+				"url": "https://notveryhelpful.com/2023/07/10/hello-world.html",
+				"tags": ["longform"]
+			}
+	]
+}
